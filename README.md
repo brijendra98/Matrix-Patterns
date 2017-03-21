@@ -1,4 +1,4 @@
-# Matrix-Patterns
+# Matrix Patterns
 A small python code which prints random matrix-like patterns onto your screen to make it look cool.
 
 
