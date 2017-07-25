@@ -11,4 +11,4 @@ Instructions to use:</br>
 3. Put your terminal to full-screen, type `python matrix.py` and enjoy the scene.
 
 
-To stop, press `Ctrl+Z / Ctrl+Z+X`
+To stop, press `Ctrl+C`
